@@ -7,7 +7,7 @@
 <h1 align="center">
    Landing Page
 </h1>
-<img align="center" src="./assets/images/landing-page-website.jpg" width="100%">
+<img align="center" src="./assets/images/landing-page.png" width="100%">
 <br><hr>
 
 <p align="center">
